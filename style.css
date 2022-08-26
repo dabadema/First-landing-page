@@ -173,3 +173,14 @@ a {
     font-weight: 700;
     font-size: 14px;
 }
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90px;
+    background-color:#1F2937;
+    
+}
+.textfooter {
+    color: #F9FAF8;
+}
